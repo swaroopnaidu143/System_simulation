@@ -45,8 +45,8 @@ A shutdown event controls the application lifecycle. Once the configured executi
 Clone the repository and move into the project directory:
 
 ```bash
-git clone https://github.com/zandiledladla/distributed-system-simulation.git
-cd distributed-system-simulation
+git clone https://github.com/swaroopnaidu143/System_simulation
+cd system-simulation
 ```
 
 Start the simulation with the default configuration:
